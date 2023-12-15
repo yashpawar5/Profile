@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Pawar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on Fintech Solutions
+
 
 
 <!---
